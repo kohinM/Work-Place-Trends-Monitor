@@ -29,5 +29,5 @@ We welcome contributions to enhance the platform! Please follow these steps to c
 5. Open a Pull Request.
 
 ## Contact
-For any questions or feedback, please reach out to us at [kohinm02.com].
+For any questions or feedback, please reach out to us at [kohinm02@gmail.com].
 
